@@ -1,4 +1,6 @@
 # BCM-TEST
+***Please note: this repository is a replica of my private project on GitHub. This open-source version is slightly modified, thus will not build. The scripts are no longer maintained and are for reference only.***
+
 Script to run a standardized QA test on newly replace-provisioned BCMs prior to field replacement.
 
 This repo contains scripts that check file integrity of an embedded computer called a "BCM".  Specifically, it is an embedded computer that is a field replacement of a decommissioned BCM model.  It should have already gone through provisioning prior to running this script.  This test should be run prior to deployment.
