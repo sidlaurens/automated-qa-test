@@ -1,4 +1,4 @@
-# BCM-TEST
+# AUTOMATED QA TESTER
 ***Please note: this repository is a replica of my private project on GitHub. This open-source version is slightly modified, thus will not build. The scripts are no longer maintained and are for reference only.***
 
 Script to run a standardized QA test on newly replace-provisioned BCMs prior to field replacement.
